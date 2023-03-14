@@ -37,7 +37,7 @@ nuevoEnlace.classList.add('navegacion__enlace')
 
 // 5to: agregarlo al documento
 const navegacion = document.querySelector('.navegacion');
-navegacion.appendChild(nuevoEnlace);
+// navegacion.appendChild(nuevoEnlace);
 
 console.log(nuevoEnlace);
 
